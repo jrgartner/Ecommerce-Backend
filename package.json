@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/jrgartner/Ecommerce-Backend/issues"
   },
-  "homepage": "https://github.com/jrgartner/Ecommerce-Backend#readme"
+  "homepage": "https://github.com/jrgartner/Ecommerce-Backend#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3"
+  }
 }
